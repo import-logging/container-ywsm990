@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "import-logging",
+  "repo": "container-ywsm990",
+  "name": "import-logging",
+}
